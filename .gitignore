@@ -1,0 +1,5 @@
+HumanDetector/Models/YOLOv3.mlmodel
+HumanDetectorTests/*
+HumanDetectorUITests/*
+*.mlmodel
+
